@@ -1,3 +1,6 @@
+ui_print(" ");
+ui_print("Installing UnNamed by gtg465x...");
+
 unmount("/system");
 unmount("/data");
 unmount("/cache");
