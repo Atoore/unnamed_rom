@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <bool name="config_sf_limitedAlpha">false</bool>
-    <bool name="config_sf_slowBlur">false</bool>
+    <bool name="config_sf_slowBlur">true</bool>
     <bool name="config_emulateExternalStorage">true</bool>
     <bool name="config_caseSensitiveExternalStorage">false</bool>
     <bool name="config_externalStorageRemovable">false</bool>
@@ -13,7 +13,7 @@
     <bool name="config_automatic_brightness_available">true</bool>
     <bool name="config_annoy_dianne">true</bool>
     <bool name="config_unplugTurnsOnScreen">true</bool>
-    <bool name="config_animateScreenLights">true</bool>
+    <bool name="config_animateScreenLights">false</bool>
     <bool name="config_deskDockEnablesAccelerometer">false</bool>
     <bool name="config_carDockEnablesAccelerometer">true</bool>
     <bool name="config_batterySdCardAccessibility">false</bool>
