@@ -1298,6 +1298,9 @@ Buy a new USIM card, please."</string>
 Buy a proper USIM card, please."</string>
     <string name="zzz_skt_usim_not_used_land">PUK is entered incorrectly. USIM card can not be used. Buy a new USIM card, please.</string>
     <string name="zzz_skt_usim_crash_land">Invalid USIM card. Buy a proper USIM card, please.</string>
+    <string name="reboot">Reboot</string>
+    <string name="recovery">Recovery</string>
+    <string name="download">Download</string>
     <item type="string" name="APKTOOL_DUMMY_04fa">false</item>
     <item type="string" name="APKTOOL_DUMMY_04fb">false</item>
     <item type="string" name="APKTOOL_DUMMY_04fc">false</item>
