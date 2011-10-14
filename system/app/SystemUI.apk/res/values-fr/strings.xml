@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">"Barre d'état"</string>
+    <string name="status_bar_clear_all_button">Effacer</string>
+    <string name="status_bar_no_notifications_title">Pas de notification</string>
+    <string name="status_bar_ongoing_events_title">En cours</string>
+    <string name="status_bar_latest_events_title">Notif.</string>
+    <string name="battery_low_title">Branchez le chargeur</string>
+    <string name="battery_low_subtitle">Le niveau de la batterie devient faible :</string>
+    <string name="battery_low_percent_format">Maximum %d%% restants</string>
+    <string name="battery_low_why">Utilisation de la batterie</string>
+    <string name="label_view">Afficher</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">Bluetooth</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Son</string>
+    <string name="quickpanel_sound_vibration_text">"Son
+Vibreur"</string>
+    <string name="quickpanel_silent_text">Discret</string>
+    <string name="quickpanel_vibration_text">Vibreur</string>
+    <string name="quickpanel_rotation_text">"Screen
+Rotation"</string>
+    <string name="quickpanel_error_text">Erreur</string>
+    <string name="quickpanel_silent_mode">"Profil
+Discret"</string>
+    <string name="lowbattery">Batterie faible</string>
+    <string name="critical_lowbattery">Niveau de batterie extrêmement faible</string>
+    <string name="charging_ac">"Fermez les applications inutilisées dans le gestionnaire de tâches. Une utilisation prolongée pendant le chargement risque d'altérer l'efficacité du chargement"</string>
+    <string name="charging_no_ac">"Branchez à une prise pour charger le périphérique et fermez les applications inutilisées dans le gestionnaire de tâches. Une utilisation prolongée pendant le chargement risque d'altérer l'efficacité du chargement"</string>
+    <string name="interrupt_charge_title">En savoir plus</string>
+    <string name="notchargebattery">Batterie débranchée</string>
+    <string name="dischargebattery">"Chargement suspendu.
+La température de la batterie est trop élevée ou trop basse"</string>
+    <string name="fullchargetitle">En savoir plus</string>
+    <string name="fullchargebattery">"La batterie est chargée.
+Débranchez le chargeur"</string>
+    <string name="airplane_mode">en mode de vol</string>
+    <string name="battery_save_title">"Mode économie d'énergie"</string>
+    <string name="battery_save_text">"Le niveau de la batterie est inférieur à %s. Le mode économie d'énergie va être activé. Continuer ?"</string>
+    <string name="quickpanel_flight_text">Hors-/nligne</string>
+</resources>

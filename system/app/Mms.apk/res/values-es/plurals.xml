@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s segundos</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s segundos</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$1$s resultados para %2$2$s</item>
+        <item quantity="one">%1$1$s resultado para %2$2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d conversaciones</item>
+        <item quantity="one">%d conversación</item>
+    </plurals>
+</resources>

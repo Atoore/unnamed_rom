@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">홈</string>
+    <string name="uid_name">Android Core 애플리케이션</string>
+    <string name="folder_name">폴더</string>
+    <string name="chooser_wallpaper">배경화면 선택</string>
+    <string name="wallpaper_instructions">배경화면 설정</string>
+    <string name="pick_wallpaper">배경화면 갤러리</string>
+    <string name="activity_not_found">애플리케이션이 휴대폰에 설치되어 있지 않습니다</string>
+    <string name="configure_wallpaper">설정 중...</string>
+    <string name="Delete_homescreen_application">삭제</string>
+    <string name="rename_folder_label">폴더 이름</string>
+    <string name="create_folder_title">폴더 이름을 입력하세요</string>
+    <string name="rename_folder_title">폴더 이름 변경</string>
+    <string name="rename_action">예</string>
+    <string name="cancel_action">아니요</string>
+    <string name="sweep_screen">빈 페이지로 이동하려면 왼쪽으로 스크롤하세요</string>
+    <string name="in_of_space">계속하려면 위젯을 누르세요</string>
+    <string name="choose_widget">위젯 선택</string>
+    <string name="group_samsung_widgets">삼성 위젯</string>
+    <string name="menu_item_add_item">홈에 추가</string>
+    <string name="group_applications">애플리케이션</string>
+    <string name="group_applications_shortcut">애플리케이션</string>
+    <string name="group_shortcuts">바로가기</string>
+    <string name="group_shortcuts_JP">바로가기</string>
+    <string name="group_search">검색</string>
+    <string name="group_folder">새 폴더</string>
+    <string name="group_live_folders">폴더</string>
+    <string name="group_widgets">위젯</string>
+    <string name="group_wallpapers">배경화면</string>
+    <string name="add_folder">폴더</string>
+    <string name="add_clock">알람/시간</string>
+    <string name="add_photo_frame">사진 액자</string>
+    <string name="add_search">검색</string>
+    <string name="out_of_space">현재 페이지에는 저장 공간이 없습니다</string>
+    <string name="shortcut_installed">%s 단축메뉴가 추가되었습니다</string>
+    <string name="shortcut_uninstalled">단축메뉴 %s이(가) 삭제되었습니다</string>
+    <string name="shortcut_duplicate">%s 바로가기가 있습니다</string>
+    <string name="group_gallery">갤러리</string>
+    <string name="group_live_wallpapers">라이브 배경화면</string>
+    <string name="group_wallpaper_gallery">배경화면 갤러리</string>
+    <string name="homescreen_disconnected_3g_and_wifi">데이터 서비스에 연결할 수 없습니다. Wi-Fi에 연결하거나 3G 데이터 통신 설정을 활성화한 후 다시 시도하세요</string>
+    <string name="homescreen_disconnected_3g">데이터 서비스에 연결할 수 없습니다. 3G 데이터 통신 설정을 활성화한 후 다시 시도하세요</string>
+    <string name="title_select_shortcut">바로가기 선택</string>
+    <string name="title_select_live_folder">폴더 선택</string>
+    <string name="menu_add">추가</string>
+    <string name="menu_wallpaper">배경화면</string>
+    <string name="menu_search">검색</string>
+    <string name="menu_notifications">알림</string>
+    <string name="menu_gestures">동작</string>
+    <string name="menu_settings">환경설정</string>
+    <string name="menu_edit">편집</string>
+    <string name="menu_drop_table">메뉴 편집</string>
+    <string name="menu_listview">목록 보기</string>
+    <string name="menu_gridview">그리드 보기</string>
+    <string name="menu_save">저장</string>
+    <string name="menu_discard">취소</string>
+    <string name="menu_shareapp">공유</string>
+    <string name="menu_viewtype">보기 모드</string>
+    <string name="menu_alphagrid">알파벳순 그리드</string>
+    <string name="menu_customgrid">사용자 지정 그리드</string>
+    <string name="menu_defaultgrid">Default Grid</string>
+    <string name="menu_shareapp_bubbletext">HQ to add code to initiate the Share app via feature</string>
+    <string name="menu_empty_new_folder">폴더 비우기</string>
+    <string name="menu_empty_new_page">페이지 비우기</string>
+    <string name="permlab_install_shortcut">바로가기 설치</string>
+    <string name="permdesc_install_shortcut">애플리케이션이 사용자의 허락 없이 단축메뉴를 추가할 수 있도록 허용합니다</string>
+    <string name="permlab_uninstall_shortcut">바로가기 제거</string>
+    <string name="permdesc_uninstall_shortcut">애플리케이션이 사용자의 허락 없이 단축메뉴를 삭제할 수 있도록 허용합니다</string>
+    <string name="permlab_read_settings">홈 설정 및 바로가기 읽기</string>
+    <string name="permdesc_read_settings">애플리케이션이 대기 화면의 설정과 단축메뉴를 읽을 수 있도록 허용합니다</string>
+    <string name="permlab_write_settings">홈 설정 및 바로가기 쓰기</string>
+    <string name="permdesc_write_settings">애플리케이션이 대기 화면 설정과 단축메뉴를 변경할 수 있도록 허용합니다</string>
+    <string name="search_hint">Google 검색</string>
+    <string name="gadget_error_text">위젯을 불러오는 중에 오류가 발생하였습니다</string>
+    <string name="set">설정</string>
+    <string name="nopreview">미리보기가 없습니다</string>
+    <string name="application_delete">선택한 애플리케이션이 삭제됩니다</string>
+    <string name="menuedit_discard">모든 변경 사항이 저장되지 않고 취소됩니다</string>
+    <string name="homescreenedit_home">홈</string>
+    <string name="homescreenedit_setashome">홈으로 설정</string>
+    <string name="homescreenedit_discard">홈 화면 변경이 취소됩니다</string>
+    <string name="homescreenedit_delete">선택한 홈 화면이 삭제됩니다</string>
+    <string name="full_of_space">모든 페이지에 저장 공간이 없습니다</string>
+    <string name="widget_add_canceled">Adding widget canceled</string>
+    <string name="remove">제거</string>
+    <string name="uninstall">삭제</string>
+    <string name="workscreen_delete">홈 화면에 항목이 있습니다. 삭제할까요?</string>
+    <string name="folder_delete">폴더가 삭제됩니다</string>
+    <string name="widget_picker_title">위젯 선택</string>
+    <string name="widget_picker_pagecount" formatted="false">%s of %s</string>
+    <string name="widget_preview_select">선택</string>
+    <string name="widget_preview_title">위젯을 선택하려면 위젯을 누르세요</string>
+    <string name="widget_preview_androidwidget">안드로이드</string>
+    <string name="widget_preview_samsungwidget">Samsung</string>
+    <string name="menumanager_make_page">페이지 추가</string>
+    <string name="menumanage_make_folder">폴더 추가</string>
+    <string name="menumanager_new_page_added">A new page has been added.</string>
+    <string name="droptable_menu_delete">삭제</string>
+    <string name="droptable_menu_make_page">페이지 추가</string>
+    <string name="droptable_menu_make_folder">폴더 추가</string>
+    <string name="droptable_delete_title">Drop Table Deletion</string>
+    <string name="droptable_apps_delete">프로그램들이 삭제됩니다</string>
+    <string name="droptable_apps_undeleteable">%1$s 프로그램을 삭제할 수 없습니다; 나머지 프로그램은 삭제됩니다</string>
+    <string name="droptable_app_undeleteable">%1$s 프로그램을 삭제할 수 없습니다; 나머지 프로그램은 삭제됩니다</string>
+    <string name="droptable_app_nodelete">Unable to delete %1$s; 삭제할 프로그램이 없습니다</string>
+    <string name="droptable_delete_fail">%1$s 프로그램 삭제에 실패하였습니다</string>
+    <string name="droptable_add2page_fail">페이지가 가득 찼습니다</string>
+    <string name="droptable_full_popup">테이블이 가득 찼습니다</string>
+    <string name="droptable_make_folder_popup">Make folder in launcher is not yet implemented</string>
+    <string name="make_folder_cur_page_full">페이지가 가득 찼습니다 폴더를 만들 수 없습니다</string>
+    <string name="folder_drop_not_allowed">폴더를 여기에 끌어다 놓을 수 없습니다</string>
+    <string name="folder_within_folder_not_allowed">하위폴더를 가진 폴더는 생성이 불가능합니다</string>
+    <string name="droptable_tap_to_put_here">Tap menu icon to put here</string>
+    <string name="droptable_single_item_selected">1개 항목이 선택되었습니다</string>
+    <string name="droptable_multiple_items_selected">%1$s items selected</string>
+    <string name="dialog_yes">예</string>
+    <string name="dialog_no">아니요</string>
+    <string name="make_folder_full">최대 페이지 항목 수(%s)를 초과하였습니다</string>
+    <string name="make_folder_confirm">폴더를 추가할까요?</string>
+    <string name="make_page_confirm">페이지를 추가할까요?</string>
+    <string name="make_folder_page_confirm">폴더 및 페이지를 추가할까요?</string>
+    <string name="lm_done">완료</string>
+    <string name="lm_help_1_title">애플리케이션 편집</string>
+    <string name="lm_help_1_content1">"Make Folder Drag &amp; Drop the application icons in the folder. 
+
+Make Page Drag &amp; Drop the application icons in the page."</string>
+    <string name="lm_help_1_dont_show_again">다시 묻지 않기</string>
+    <string name="default_sort_dialog_title">기본 정렬</string>
+    <string name="default_sort_dialog_content">기본 정렬은 선탑재 애플리케이션을 원래 순서대로 정렬하고 나중에 설치된 애플리케이션을 시간순으로 정렬합니다</string>
+    <string name="close_camera_for_unmounted_memory_launcher">카메라를 실행하기 전에 내장 메모리 연결을 해제하세요</string>
+    <string name="folder_info_home">"홈화면을 길게 눌러서
+폴더를 추가할 수 있으며,
+메뉴아이콘을 드래그해서
+폴더에 넣을 수 있습니다.
+타이틀 영역을 길게 눌러서
+폴더명을 변경할 수 있습니다."</string>
+    <string name="folder_info_menu">"메뉴 편집시,
+좌측 하단 폴더 아이콘을
+메뉴 영역으로 드래그해서
+폴더를 추가할 수 있습니다.
+메뉴 아이콘을 드래그해서
+폴더에 넣을 수 있으며,
+타이틀 영역을 길게 눌러서
+폴더명을 변경할 수 있습니다."</string>
+    <string name="flat_rate_title">데이터 서비스</string>
+    <string name="flat_rate_message">"모바일 데이터 연결은 기본적으로 실행되어 있습니다. 무제한 데이터 요금제를 사용하지 않는 경우, 모바일 데이터 연결을 실행하면 추가 요금이 부과될 수 있습니다.
+ 모바일 데이터 연결은 언제든지 %s에서 해제할 수 있습니다(MMS 발신 및 수신만 가능)"</string>
+    <string name="enable_flat_rate">모바일 데이터 연결 실행</string>
+    <string name="Ok_string">확인</string>
+    <string name="attention_org">Warning!</string>
+    <string name="message_org">You need to activate mobile data. You may be charged extra by your network wireless provider if you do not have an unlimited data plan. You may also Enable / Disable your data connection from Settings / Wireless and network / Mobile network / Data connection</string>
+    <string name="activate_org">실행</string>
+    <string name="cancel_org">취소</string>
+    <string name="motion_dialog_learn_about_wave">패닝에 대해 알아보기</string>
+    <string name="motion_dialog_explanation">편집모드에서 아이콘을 누른 채 휴대폰을 좌우로 움직여 다른 페이지로 이동</string>
+    <string name="motion_dialog_turned_off">모션 비활성화 상태</string>
+    <string name="motion_dialog_turn_on_message">모션 기능을 사용할까요?</string>
+    <string name="motion_dialog_do_not_ask_again">다시 묻지 않기</string>
+    <string name="motion_dialog_ok">확인</string>
+    <string name="motion_dialog_cancel">취소</string>
+    <string name="motion_dialog_done">완료</string>
+    <string name="menu_edit_dialog_title">애플리케이션 편집</string>
+    <string name="menu_edit_dialog_add_folder_detail">애플리케이션 아이콘을 폴더로 드래그하세요</string>
+    <string name="menu_edit_dialog_add_page_detail">애플리케이션 아이콘을 페이지로 드래그하세요</string>
+    <string name="telstra_yellowpages">옐로우 페이지</string>
+    <string name="telstra_whitepages">White Pages</string>
+    <string name="telstra_citysearch">City Search</string>
+    <string name="telstra_tradingpost">Trading Post</string>
+    <string name="telstra_bigpondmusic">음악</string>
+    <string name="telstra_games">게임</string>
+    <string name="telstra_bingpondtv">TV</string>
+    <string name="telstra_movies">영화</string>
+    <string name="telstra_myemail">내 이메일</string>
+    <string name="telstra_myaccount">내 계정</string>
+    <string name="telstra_downloads">Downloads</string>
+    <string name="telstra_tribe">Tribe</string>
+    <string name="telstra_news">뉴스</string>
+    <string name="telstra_sport">스포츠</string>
+    <string name="menu_item_edit_item">홈으로 설정</string>
+    <string name="setashome_menu_button">완료</string>
+    <string name="viewtype_dialog_title">보기 모드</string>
+    <string name="viewtype_dialog_button">취소</string>
+    <string name="viewtype_dialog_item_customizable_grid">사용자 지정 그리드</string>
+    <string name="viewtype_dialog_item_alphabetical_grid">알파벳순 그리드</string>
+    <string name="viewtype_dialog_item_alphabetical_list">알파벳순</string>
+    <string name="mm_listmode_alpha_index">\#ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="tips_dialog_text">아이콘을 재배치 하려면 <b> 보기모드</b>를 <b>사용자 지정 그리드</b>로 변경하세요</string>
+    <string name="tips_dialog_title">아이콘 재배치</string>
+    <string name="tips_dialog_switch_button">변경</string>
+    <string name="tips_dialog_cancel_button">취소</string>
+    <string name="background_note">컨텐츠를 추가하려면 이 페이지를 길게 누르세요</string>
+    <string name="lm_help_1_content">폴더나 페이지를 추가하려면, 메뉴 아이콘을 [폴더 추가] 또는 [페이지 추가] 영역에 끌어다 놓으세요. 그 후 영역 아이콘을 원하는 곳으로 이동할 수 있습니다</string>
+</resources>

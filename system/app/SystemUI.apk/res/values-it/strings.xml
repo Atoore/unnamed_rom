@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Barra di stato</string>
+    <string name="status_bar_clear_all_button">Cancella</string>
+    <string name="status_bar_no_notifications_title">Nessuna notifica</string>
+    <string name="status_bar_ongoing_events_title">In corso</string>
+    <string name="status_bar_latest_events_title">Notifiche</string>
+    <string name="battery_low_title">Collegare il caricatore</string>
+    <string name="battery_low_subtitle">La batteria si sta scaricando:</string>
+    <string name="battery_low_percent_format">%d%% rimanente o meno</string>
+    <string name="battery_low_why">Uso batteria</string>
+    <string name="label_view">Vedi</string>
+    <string name="quickpanel_wifi_text">Wi-Fi</string>
+    <string name="quickpanel_bluetooth_text">Bluetooth</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Suono</string>
+    <string name="quickpanel_sound_vibration_text">"Suono
+Vibrazione"</string>
+    <string name="quickpanel_silent_text">Silenzioso</string>
+    <string name="quickpanel_vibration_text">Vibrazione</string>
+    <string name="quickpanel_rotation_text">"Ruota
+automat"</string>
+    <string name="quickpanel_error_text">Errore</string>
+    <string name="quickpanel_silent_mode">"Modalità
+silenziosa"</string>
+    <string name="lowbattery">Batteria scarica</string>
+    <string name="critical_lowbattery">Batteria completamente scarica</string>
+    <string name="charging_ac">"Rimuovere le applicazioni inutilizzate in Task Manager. L'utilizzo continuato durante la ricarica potrebbe rallentare l'operazione"</string>
+    <string name="charging_no_ac">Collegare il dispositivo con il caricabatteria ad una presa di corrente. L’utilizzo del dispositivo durante la carica può diminuire la velocità di caricamento della batteria.</string>
+    <string name="interrupt_charge_title">Info</string>
+    <string name="notchargebattery">Batteria scollegata</string>
+    <string name="dischargebattery">Ricarica in pausa. Temperatura della batteria troppo alta o troppo bassa</string>
+    <string name="fullchargetitle">Info</string>
+    <string name="fullchargebattery">"Batteria carica.
+Scollegare caricabatterie"</string>
+    <string name="airplane_mode">In modalità Offline</string>
+    <string name="battery_save_title">Risparmio energetico</string>
+    <string name="battery_save_text">Livello batteria inferiore a %s. Verrà eseguita la Modalità risparmio energetico. Continuare?</string>
+    <string name="quickpanel_flight_text">"Modalità
+offline"</string>
+</resources>

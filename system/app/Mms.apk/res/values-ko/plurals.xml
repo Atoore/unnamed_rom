@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s초</item>
+        <item quantity="one">%s초</item>
+        <item quantity="few">%s초</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%1$2$s\"에 대한 결과가 %2$1$s개 있습니다</item>
+        <item quantity="one">\"%1$2$s\"에 대한 결과가 %2$1$s개 있습니다</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d개의 대화</item>
+        <item quantity="one">대화 %d개</item>
+    </plurals>
+</resources>

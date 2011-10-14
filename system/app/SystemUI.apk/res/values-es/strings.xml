@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Barra de estado</string>
+    <string name="status_bar_clear_all_button">Borrar</string>
+    <string name="status_bar_no_notifications_title">Sin notificaciones</string>
+    <string name="status_bar_ongoing_events_title">En curso</string>
+    <string name="status_bar_latest_events_title">Notificaciones</string>
+    <string name="battery_low_title">Conecte el cargador</string>
+    <string name="battery_low_subtitle">La batería se está quedando sin energía:</string>
+    <string name="battery_low_percent_format">%d%% o menos disponible</string>
+    <string name="battery_low_why">Uso de batería</string>
+    <string name="label_view">Ver</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">Bluetooth</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Sonido</string>
+    <string name="quickpanel_sound_vibration_text">"Sonido
+Vibración"</string>
+    <string name="quickpanel_silent_text">Silencio</string>
+    <string name="quickpanel_vibration_text">Vibración</string>
+    <string name="quickpanel_rotation_text">"Rotación
+autom"</string>
+    <string name="quickpanel_error_text">Error</string>
+    <string name="quickpanel_silent_mode">"Modo
+Silencio"</string>
+    <string name="lowbattery">Batería baja</string>
+    <string name="critical_lowbattery">Batería muy baja</string>
+    <string name="charging_ac">Cierre las aplicaciones que no utilice en el Administrador de tareas. El uso continuado durante la carga puede impedir que se realice con eficacia</string>
+    <string name="charging_no_ac">Conecte a un enchufe para cargar el dispositivo y cierre las aplicaciones que no utilice en el Administrador de tareas. El uso continuado durante la carga puede impedir que se realice con eficacia</string>
+    <string name="interrupt_charge_title">Información</string>
+    <string name="notchargebattery">Batería desconectada</string>
+    <string name="dischargebattery">Carga en pausa. La temperatura de la batería es demasiado alta o demasiado baja</string>
+    <string name="fullchargetitle">Información</string>
+    <string name="fullchargebattery">"Batería totalmente cargada.
+Desenchufe el cargador"</string>
+    <string name="airplane_mode">Modo avión</string>
+    <string name="battery_save_title">Modo de ahorro de energía</string>
+    <string name="battery_save_text">Nivel de batería por debajo del %s. Se activará el ahorro de energía. ¿Continuar?</string>
+    <string name="quickpanel_flight_text">"Modo
+avión"</string>
+</resources>

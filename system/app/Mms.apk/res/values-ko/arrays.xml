@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>행복</item>
+        <item>슬픔</item>
+        <item>윙크</item>
+        <item>메롱~</item>
+        <item>깜짝이야</item>
+        <item>키스</item>
+        <item>버럭</item>
+        <item>멋져</item>
+        <item>돈을 입에 넣어라</item>
+        <item>헉! 나의 실수</item>
+        <item>창피해</item>
+        <item>천사</item>
+        <item>모르겠는걸</item>
+        <item>울음</item>
+        <item>입 열면 안돼!</item>
+        <item>웃음</item>
+        <item>혼란</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1초</item>
+        <item>2초</item>
+        <item>3초</item>
+        <item>4초</item>
+        <item>5초</item>
+        <item>6초</item>
+        <item>7초</item>
+        <item>8초</item>
+        <item>9초</item>
+        <item>10초</item>
+        <item>기타</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>보통</item>
+        <item>작게</item>
+        <item>아주 작게</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>모든 채널</item>
+        <item>내 채널</item>
+    </string-array>
+    <string-array name="pref_entry_values_cb_selection">
+        <item>All channels</item>
+        <item>My channel</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM 알파벳</item>
+        <item>유니코드</item>
+        <item>자동</item>
+    </string-array>
+    <string-array name="pref_entry_values_sms_input_mode">
+        <item>GSM alphabet</item>
+        <item>Unicode</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="pref_entries_sms_expiry_date">
+        <item>0 day</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+    </string-array>
+    <string-array name="pref_entry_values_sms_expiry_date">
+        <item>0 day</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>제한</item>
+        <item>경고</item>
+        <item>제한 없음</item>
+    </string-array>
+    <string-array name="pref_entry_values_mms_creation_mode">
+        <item>restricted</item>
+        <item>warning</item>
+        <item>free</item>
+    </string-array>
+</resources>

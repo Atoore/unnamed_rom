@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Felice</item>
+        <item>Triste</item>
+        <item>Occhiolino</item>
+        <item>Linguaccia</item>
+        <item>Sorpreso</item>
+        <item>Dare un bacio</item>
+        <item>Strillare</item>
+        <item>Cool</item>
+        <item>Soldi! Soldi!</item>
+        <item>Fare una gaffe</item>
+        <item>Imbarazzato</item>
+        <item>Angelo</item>
+        <item>Incerto</item>
+        <item>Piangente</item>
+        <item>Labbra sigillate</item>
+        <item>Ridente</item>
+        <item>Perplesso</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 secondo</item>
+        <item>2 secondi</item>
+        <item>3 secondi</item>
+        <item>4 secondi</item>
+        <item>5 secondi</item>
+        <item>6 secondi</item>
+        <item>7 secondi</item>
+        <item>8 secondi</item>
+        <item>9 secondi</item>
+        <item>10 secondi</item>
+        <item>Altro...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Normale</item>
+        <item>Piccolo</item>
+        <item>Tiny</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Tutti i canali</item>
+        <item>Canale personale</item>
+    </string-array>
+    <string-array name="pref_entry_values_cb_selection">
+        <item>All channels</item>
+        <item>My channel</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Alfabeto GSM</item>
+        <item>Unicode</item>
+        <item>Automatica</item>
+    </string-array>
+    <string-array name="pref_entry_values_sms_input_mode">
+        <item>GSM alphabet</item>
+        <item>Unicode</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Con restrizioni</item>
+        <item>Avviso</item>
+        <item>Libero</item>
+    </string-array>
+    <string-array name="pref_entry_values_mms_creation_mode">
+        <item>restricted</item>
+        <item>warning</item>
+        <item>free</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Sempre</item>
+        <item>Chiedi</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Blu</item>
+        <item>Marrone</item>
+        <item>Sempreverde</item>
+        <item>Mono</item>
+        <item>Divertente</item>
+    </string-array>
+</resources>
