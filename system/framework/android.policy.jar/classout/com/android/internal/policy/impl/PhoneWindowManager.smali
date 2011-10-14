@@ -3903,33 +3903,7 @@
     .line 1280
     .local v5, canceled:Z
     :goto_12
-    const/16 v16, 0x3
 
-    move/from16 v0, p4
-
-    move/from16 v1, v16
-
-    if-ne v0, v1, :cond_2a
-
-    .line 1281
-    move-object/from16 v0, p0
-
-    iget-object v0, v0, Lcom/android/internal/policy/impl/PhoneWindowManager;->mHomeKeyDoubleClickConcept:Lcom/android/internal/policy/impl/PhoneWindowManager$HomeKeyDoubleClickConcept;
-
-    move-object/from16 v16, v0
-
-    move-object/from16 v0, v16
-
-    move/from16 v1, p2
-
-    move/from16 v2, p7
-
-    move v3, v5
-
-    invoke-virtual {v0, v1, v2, v3}, Lcom/android/internal/policy/impl/PhoneWindowManager$HomeKeyDoubleClickConcept;->addAction(IIZ)V
-
-    .line 1288
-    :cond_2a
     const/16 v16, 0x3
 
     move/from16 v0, p4
@@ -3955,6 +3929,16 @@
 
     invoke-virtual/range {v16 .. v17}, Landroid/os/Handler;->removeCallbacks(Ljava/lang/Runnable;)V
 
+    move-object/from16 v0, p0
+
+    iget-boolean v0, v0, Lcom/android/internal/policy/impl/PhoneWindowManager;->mHomePressed:Z
+
+    move v4, v0
+
+    if-eqz v4, :cond_5d
+
+    invoke-virtual/range {p0 .. p0}, Lcom/android/internal/policy/impl/PhoneWindowManager;->launchHomeFromHotKey()V
+	
     .line 1294
     :cond_43
     move-object/from16 v0, p0
