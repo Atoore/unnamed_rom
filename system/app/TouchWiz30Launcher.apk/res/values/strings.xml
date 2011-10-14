@@ -179,5 +179,5 @@ Make Page Drag &amp; Drop the application icons in the page."</string>
     <string name="tips_dialog_title">Reorganize icons</string>
     <string name="tips_dialog_switch_button">Switch</string>
     <string name="tips_dialog_cancel_button">Cancel</string>
-    <string name="background_note">Press and hold this page to add content</string>
+    <string name="background_note"> </string>
 </resources>
