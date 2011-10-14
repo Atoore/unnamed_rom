@@ -1,0 +1,9 @@
+Apps and framework containing only a classout source directory were decompiled with baksmali 1.2.8 (http://code.google.com/p/smali/). 
+
+All other apps and framework were decompiled with Apk Manager 4.9 (http://forum.xda-developers.com/showthread.php?t=695701) paired with apktool 1.4.1 (http://code.google.com/p/android-apktool/).
+
+After recompiling apks with Apk Manager, I use this VBScript to repackage them with the proper compression settings: http://forum.xda-developers.com/showthread.php?t=1123463
+
+A note about the text messaging conversation view theme commit: The commited images are decompiled .9 pngs. You can't drop these directly into an apk without first compiling them. The black pixel lines on the bottom and right side of the images define the area where text is placed. The black pixel dots (which could be lines as well if you wanted) on the top and left side of the images define the portions of the image that get stretched when the images are resized.
+
+
