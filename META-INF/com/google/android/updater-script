@@ -8,12 +8,6 @@ unmount("/cache");
 ui_print(" ");
 ui_print("Formatting system...");
 format("ext4", "EMMC", "/dev/block/mmcblk0p9");
-ui_print(" ");
-ui_print("Formatting data...");
-format("ext4", "EMMC", "/dev/block/mmcblk0p10");
-ui_print(" ");
-ui_print("Formatting cache...");
-format("ext4", "EMMC", "/dev/block/mmcblk0p7");
 
 mount("ext4", "EMMC", "/dev/block/mmcblk0p9", "/system");
 
