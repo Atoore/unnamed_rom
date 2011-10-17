@@ -54,4 +54,8 @@ Unplug charger"</string>
     <string name="quickpanel_wimax_text">4G</string>
     <string name="quickpanel_flight_text">"Flight
 Mode"</string>
+    <string name="quickpanel_autosync_text">Sync</string>
+    <string name="quickpanel_brightness_text">Brightness</string>
+    <string name="quickpanel_dc_text">Data</string>
+    <string name="quickpanel_flashlight_text">Flashlight</string>
 </resources>

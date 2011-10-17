@@ -49,4 +49,19 @@
     <item type="id" name="tracking_background">false</item>
     <item type="id" name="close">false</item>
     <item type="id" name="close_on">false</item>
+    <item type="id" name="quickpanel_autosync_btn_icon">false</item>
+    <item type="id" name="quickpanel_autosync_btn_text">false</item>
+    <item type="id" name="quickpanel_autosync_btn_status_icon">false</item>
+    <item type="id" name="quickpanel_brightness_btn_icon">false</item>
+    <item type="id" name="quickpanel_brightness_btn_text">false</item>
+    <item type="id" name="quickpanel_brightness_btn_status_icon">false</item>
+    <item type="id" name="quickpanel_data_btn_icon">false</item>
+    <item type="id" name="quickpanel_data_btn_text">false</item>
+    <item type="id" name="quickpanel_data_btn_status_icon">false</item>
+    <item type="id" name="quickpanel_flashlight_btn_icon">false</item>
+    <item type="id" name="quickpanel_flashlight_btn_text">false</item>
+    <item type="id" name="quickpanel_flashlight_btn_status_icon">false</item>
+    <item type="id" name="quickpanel_sound_btn_icon">false</item>
+    <item type="id" name="quickpanel_sound_btn_text">false</item>
+    <item type="id" name="quickpanel_sound_btn_status_icon">false</item>
 </resources>

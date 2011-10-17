@@ -1035,10 +1035,10 @@
 
     move-result-object v3
 
-    check-cast v3, Lcom/android/systemui/statusbar/quickpanel/QuickSettingsView;
+    check-cast v3, Landroid/widget/HorizontalScrollView;
 
     .line 394
-    .local v3, qsv:Lcom/android/systemui/statusbar/quickpanel/QuickSettingsView;
+    .local v3, qsv:Landroid/widget/HorizontalScrollView;
     iget-object v7, p0, Lcom/android/systemui/statusbar/StatusBarService;->mExpandedView:Lcom/android/systemui/statusbar/ExpandedView;
 
     invoke-virtual {v7, v3, v12}, Lcom/android/systemui/statusbar/ExpandedView;->addView(Landroid/view/View;I)V
