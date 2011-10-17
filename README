@@ -1,6 +1,6 @@
 Apps and framework containing only a classout source directory were decompiled with baksmali 1.2.8 (http://code.google.com/p/smali/). Use smali 1.2.8 to recompile these classout directories into classes.dex files.
 
-All other apps and framework were decompiled with Apk Manager 4.9 (http://forum.xda-developers.com/showthread.php?t=695701) paired with apktool 1.4.1 (http://code.google.com/p/android-apktool/). Apks compiled with Apk Manager should be compiled as system apps, preferably using the "keep" feature of Apk Manager so that only modified files are recompiled. System apps do not need to be signed.
+All other apps and framework (except for Settings.apk) were decompiled with Apk Manager 4.9 (http://forum.xda-developers.com/showthread.php?t=695701) paired with apktool 1.4.1 (http://code.google.com/p/android-apktool/). Settings.apk would not decompile properly with apktool 1.4.1 so it was decompiled with apktool 1.3.2. Apks compiled with Apk Manager should be compiled as system apps, preferably using the "keep" feature of Apk Manager so that only modified files are recompiled. System apps do not need to be signed.
 
 After recompiling apks with Apk Manager, I use this VBScript to repackage them with the proper compression settings: http://forum.xda-developers.com/showthread.php?t=1123463
 
