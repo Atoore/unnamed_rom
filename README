@@ -1,11 +1,3 @@
 Apps and framework containing only a classout source directory were decompiled with baksmali 1.2.8 (http://code.google.com/p/smali/). Use smali 1.2.8 to recompile these classout directories into classes.dex files.
 
-All other apps and framework (except for Settings.apk) were decompiled with Apk Manager 4.9 (http://forum.xda-developers.com/showthread.php?t=695701) paired with apktool 1.4.1 (http://code.google.com/p/android-apktool/). Settings.apk would not decompile properly with apktool 1.4.1 so it was decompiled with apktool 1.3.2. Apks compiled with Apk Manager should be compiled as system apps, preferably using the "keep" feature of Apk Manager so that only modified files are recompiled. System apps do not need to be signed.
-
-After recompiling apks with Apk Manager, I use this VBScript to repackage them with the proper compression settings: http://forum.xda-developers.com/showthread.php?t=1123463
-
-A note about the text messaging conversation view theme commit: The commited images are decompiled .9 pngs. You can't drop these directly into an apk without first compiling them. The black pixel lines on the bottom and right side of the images define the area where text is placed. The black pixel dots (which could be lines as well if you wanted) on the top and left side of the images define the portions of the image that get stretched when the images are resized.
-
-Note 2: To make use of the "keep" feature of Apk Manager, you obviously need the unmodified de-odexed apks that haven't been decompiled. I don't plan on posting these. This project is meant to be a learning tool so you should be de-odexing and trying to understand / making the code changes on your own rather than just downloading this source and trying to compile the apks.
-
 
